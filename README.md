@@ -1,7 +1,7 @@
 # Emotions Classification using RNNs
 This project aims to use RNNs for classifying reddit comments into 14 different emotions. Several Experiments are carried out to get the best possible results using RNNs. Data pre-processing and exploration are also done.
 
-There is a notebook for data exploration and visualisation, one for some initial experiments conducted on the dataset, and one bug notebook which has all 4 of the main experiments listed below. Experiments were originally conducted in separate notebooks which can be found in the folder.
+There is a notebook for data exploration and visualisation, one for some initial experiments conducted on the dataset, and one big notebook which has all 4 of the main experiments listed below. Experiments were originally conducted in separate notebooks which can be found in the folder.
 
 ## Description
 The task at hand is a multi-class text classification problem. Using the ‘GoEmotions’ dataset, we must use a total of 14 emotion labels out of the original 27 categories and achieve the best performance possible on correctly classifying the reddit comments in this dataset. At the later stages of this project, the group must combine results obtained from this experimentation and deliver and deploy a complete pipeline.<br /><br />
